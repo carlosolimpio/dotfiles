@@ -1,0 +1,4 @@
+Some of the current directory files have a symlink from /etc/profile.d/
+to work since device start up.
+
+trackpad_config.sh MUST run before disable_trackpad.sh
