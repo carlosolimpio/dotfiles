@@ -1,0 +1,7 @@
+Intenet speed report
+
+Timestamp: -2:00 / 2021-01-06
+Download: 5.98 Mbps
+Upload: 1.19 Mbps
+Ping: 59ms 
+
